@@ -59,13 +59,13 @@ Amongst the numerous factors that affecct climate change, the Agriculture, Fores
 
 The following sections of this guide will direct you on how to document your analysis at any scale(global, continental, country, state).
 
-[**1.1 Global Analysis**]
+[**1.1 Global Analysis**](https://github.com/Simpleshell3/Land-Sector-Dataset-Description/blob/main/Land_Sector_Data_Analysis_Guide.md#11-global-analysis)
 
-[**1.2 Continental Analysis**]
+[**1.2 Continental Analysis**](https://github.com/Simpleshell3/Land-Sector-Dataset-Description/blob/main/Land_Sector_Data_Analysis_Guide.md#12-continental-analysis)
 
-[**1.3 National Analysis**]
+[**1.3 National Analysis**](https://github.com/Simpleshell3/Land-Sector-Dataset-Description/blob/main/Land_Sector_Data_Analysis_Guide.md#13-national-analysis)
 
-[**1.4 State/Province/County/Region/City Analysis**]
+[**1.4 State/Province/County/Region/City Analysis**](https://github.com/Simpleshell3/Land-Sector-Dataset-Description/blob/main/Land_Sector_Data_Analysis_Guide.md#14--stateprovincecountyregioncity-analysis)
 
 
 # **1.1 Global Analysis**
