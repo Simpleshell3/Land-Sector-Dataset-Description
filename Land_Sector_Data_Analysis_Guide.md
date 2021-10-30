@@ -20,18 +20,18 @@ Notebook documents are both human-readable documents containing the analysis des
 # 1.0.0 Make your contribution
 
    -   Make changes or additions to the Analysis.
-    -  Ensure that your analysis meets the ananlysis style guidelines. 
-    -   Follow the [documentation guidelines](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md).
+   -  Ensure that your analysis meets the ananlysis style guidelines. 
+   -   Follow the [documentation guidelines](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md).
 
 # 1.0.1 Submit your contribution
 
    - [Submit a Pull-Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the Branch you want to contribute.
-    - Use a clear and descriptive title.
-    - Ensure maintainers can understand your proposed contribution from the description.
-    - Sign your message with `Signed-off-by: Random J Developer` to agree to [Developer Certificate of Origin (DCO)](https://developercertificate.org/) to certify that you wrote or otherwise have the right to submit your contribution to the project.
-    - Ensure your Pull-Request passes all checks and has no conflicts.
-    - Click `Create Pull Request`.
-    - Include in the comments section the analysis you have done.
+   - Use a clear and descriptive title.
+   - Ensure maintainers can understand your proposed contribution from the description.
+   - Sign your message with `Signed-off-by: Random J Developer` to agree to [Developer Certificate of Origin (DCO)](https://developercertificate.org/) to certify that you wrote or otherwise have the right to submit your contribution to the project.
+   - Ensure your Pull-Request passes all checks and has no conflicts.
+   - Click `Create Pull Request`.
+   - Include in the comments section the analysis you have done.
 
 # 1.0.2 Get credit for your work
 
